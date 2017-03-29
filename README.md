@@ -10,3 +10,5 @@ Get the historical price of Bitcoin inside of Houdini
 
 # Example
 [Example HIP file](https://stack.thebatchman.nl/s/pZSTrHj6cyVASbH)
+
+![Imgur](http://i.imgur.com/qSDPtAY.png)
